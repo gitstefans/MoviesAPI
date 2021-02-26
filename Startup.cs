@@ -19,6 +19,7 @@ namespace moviesAPI
     {
         public IConfiguration Configuration { get; }
         public static String ConnectionString; 
+        readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -44,6 +45,15 @@ namespace moviesAPI
                 options.UseSqlServer("Server=DESKTOP-CK711NU\\SQLExpress;Database=Videoteka;Integrated Security=True"));
         
             services.AddScoped<IMovieRepository, MovieRepository>();
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy(name: MyAllowSpecificOrigins,
+                                builder =>
+                                {
+                                    builder.WithOrigins("*");
+                                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -54,7 +64,15 @@ namespace moviesAPI
                 app.UseDeveloperExceptionPage();
             }
 
+            DefaultFilesOptions options = new DefaultFilesOptions();
+            options.DefaultFileNames.Clear();
+            options.DefaultFileNames.Add("index.html");
+
+            app.UseDefaultFiles(options);
+
+            app.UseStaticFiles();
             app.UseRouting();
+            app.UseCors(MyAllowSpecificOrigins);
 
             app.UseEndpoints(endpoints =>
             {

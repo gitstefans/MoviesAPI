@@ -9,7 +9,7 @@ namespace moviesAPI.Models
 {
     public class ActorDTO
     {
-        public int ActorId;
+        public int ActorId { get; set; }
         public string Name { get; set; }
         public string LastName { get; set; }
         public Guid MovieId { get; set; }

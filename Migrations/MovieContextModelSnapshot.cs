@@ -63,6 +63,10 @@ namespace moviesAPI.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Video")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("Year")
                         .HasColumnType("int");
 
@@ -73,13 +77,11 @@ namespace moviesAPI.Migrations
 
             modelBuilder.Entity("moviesAPI.Entities.Actor", b =>
                 {
-                    b.HasOne("moviesAPI.Entities.Movie", "Movie")
+                    b.HasOne("moviesAPI.Entities.Movie", null)
                         .WithMany("Actors")
                         .HasForeignKey("MovieId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Movie");
                 });
 
             modelBuilder.Entity("moviesAPI.Entities.Movie", b =>

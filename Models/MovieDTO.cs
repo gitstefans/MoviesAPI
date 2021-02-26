@@ -9,12 +9,13 @@ namespace moviesAPI.Models
 {
     public class MovieDTO
     {
-        public Guid MovieId;
+        public Guid MovieId { get; set; }
         public string Name { get; set; }      
         public string ImageUrl { get; set; }
         public int Year { get; set; }
         public string Description { get; set; }
         public string Genre { get; set; }
+        public string Video { get; set; }
         public ICollection<ActorDTO> Actors { get; set; } 
             = new List<ActorDTO>();
     }

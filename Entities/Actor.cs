@@ -14,7 +14,6 @@ namespace moviesAPI.Entities
         public string Name { get; set; }
         public string LastName { get; set; }
         [ForeignKey("MovieId")]
-        //public Movie Movie { get; set; }
         public Guid MovieId { get; set; }
 
     }

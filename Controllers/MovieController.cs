@@ -45,8 +45,8 @@ namespace moviesAPI.Controllers
             //     movie.Actors.Add(actor);
             // }
             
-            //return Ok(_mapper.Map<MovieDTO>(movie));    
-            return Ok(movie);  
+            return Ok(_mapper.Map<MovieDTO>(movie));    
+            //return Ok(movie);  
         }
     }
 }

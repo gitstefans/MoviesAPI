@@ -1,0 +1,231 @@
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\moviesAPI.exe
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\moviesAPI.deps.json
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\moviesAPI.runtimeconfig.json
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\moviesAPI.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\moviesAPI.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\moviesAPI.pdb
+C:\Users\Stefan\Desktop\moviesAPI\obj\Debug\netcoreapp3.1\moviesAPI.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\moviesAPI\obj\Debug\netcoreapp3.1\moviesAPI.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\moviesAPI\obj\Debug\netcoreapp3.1\moviesAPI.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\moviesAPI\obj\Debug\netcoreapp3.1\moviesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\moviesAPI\obj\Debug\netcoreapp3.1\moviesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\moviesAPI\obj\Debug\netcoreapp3.1\moviesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\moviesAPI\obj\Debug\netcoreapp3.1\staticwebassets\moviesAPI.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\moviesAPI\obj\Debug\netcoreapp3.1\staticwebassets\moviesAPI.StaticWebAssets.xml
+C:\Users\Stefan\Desktop\moviesAPI\obj\Debug\netcoreapp3.1\moviesAPI.dll
+C:\Users\Stefan\Desktop\moviesAPI\obj\Debug\netcoreapp3.1\moviesAPI.pdb
+C:\Users\Stefan\Desktop\moviesAPI\obj\Debug\netcoreapp3.1\moviesAPI.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\moviesAPI\obj\Debug\netcoreapp3.1\moviesAPI.csproj.CopyComplete
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Stefan\Desktop\moviesAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\moviesAPI.exe
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\moviesAPI.deps.json
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\moviesAPI.runtimeconfig.json
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\moviesAPI.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\moviesAPI.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\moviesAPI.pdb
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\obj\Debug\netcoreapp3.1\moviesAPI.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\moviesAPI - Copy\obj\Debug\netcoreapp3.1\moviesAPI.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\moviesAPI - Copy\obj\Debug\netcoreapp3.1\moviesAPI.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\moviesAPI - Copy\obj\Debug\netcoreapp3.1\moviesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\moviesAPI - Copy\obj\Debug\netcoreapp3.1\moviesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\moviesAPI - Copy\obj\Debug\netcoreapp3.1\moviesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\moviesAPI - Copy\obj\Debug\netcoreapp3.1\moviesAPI.csproj.CopyComplete
+C:\Users\Stefan\Desktop\moviesAPI - Copy\obj\Debug\netcoreapp3.1\staticwebassets\moviesAPI.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\moviesAPI - Copy\obj\Debug\netcoreapp3.1\staticwebassets\moviesAPI.StaticWebAssets.xml
+C:\Users\Stefan\Desktop\moviesAPI - Copy\obj\Debug\netcoreapp3.1\moviesAPI.dll
+C:\Users\Stefan\Desktop\moviesAPI - Copy\obj\Debug\netcoreapp3.1\moviesAPI.pdb
+C:\Users\Stefan\Desktop\moviesAPI - Copy\obj\Debug\netcoreapp3.1\moviesAPI.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\moviesAPI.exe
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\moviesAPI.deps.json
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\moviesAPI.runtimeconfig.json
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\moviesAPI.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\moviesAPI.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\moviesAPI.pdb
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\obj\Debug\netcoreapp3.1\moviesAPI.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\moviesAPICopy\obj\Debug\netcoreapp3.1\moviesAPI.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\moviesAPICopy\obj\Debug\netcoreapp3.1\moviesAPI.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\moviesAPICopy\obj\Debug\netcoreapp3.1\moviesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\moviesAPICopy\obj\Debug\netcoreapp3.1\moviesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\moviesAPICopy\obj\Debug\netcoreapp3.1\moviesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\moviesAPICopy\obj\Debug\netcoreapp3.1\moviesAPI.csproj.CopyComplete
+C:\Users\Stefan\Desktop\moviesAPICopy\obj\Debug\netcoreapp3.1\staticwebassets\moviesAPI.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\moviesAPICopy\obj\Debug\netcoreapp3.1\staticwebassets\moviesAPI.StaticWebAssets.xml
+C:\Users\Stefan\Desktop\moviesAPICopy\obj\Debug\netcoreapp3.1\moviesAPI.dll
+C:\Users\Stefan\Desktop\moviesAPICopy\obj\Debug\netcoreapp3.1\moviesAPI.pdb
+C:\Users\Stefan\Desktop\moviesAPICopy\obj\Debug\netcoreapp3.1\moviesAPI.genruntimeconfig.cache

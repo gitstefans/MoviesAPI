@@ -10,20 +10,18 @@ namespace moviesAPI.Entities
     {
         [Key]
         public Guid MovieId { get; set; }
-
         [Required]
         public string Name { get; set; }
-        
         [Required]
         public string ImageUrl { get; set; }
         [Required]
         public int Year { get; set; }
-
         [Required]
         public string Description { get; set; }
-        
         [Required]
         public string Genre { get; set; }
+        [Required]
+        public string Video { get; set; }
         [Required]
         public ICollection<Actor> Actors { get; set; }
             = new List<Actor>();
